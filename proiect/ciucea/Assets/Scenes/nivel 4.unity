@@ -181,7 +181,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -11.372498, y: 0.7029818}
+  m_Offset: {x: -11.372498, y: 3.6460652}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -192,7 +192,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.5809126, y: 1.6485078}
+  m_Size: {x: 1.5809135, y: 0.36892295}
   m_EdgeRadius: 0
 --- !u!1 &49556733
 GameObject:
@@ -1213,7 +1213,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -11.372498, y: 0.7029818}
+  m_Offset: {x: -11.32498, y: 3.2906187}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -1224,7 +1224,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.5809126, y: 1.6485078}
+  m_Size: {x: 1.6759491, y: 0.6134534}
   m_EdgeRadius: 0
 --- !u!1 &225292037
 GameObject:
@@ -2266,7 +2266,7 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
-  m_PresetInfoIsWorld: 0
+  m_PresetInfoIsWorld: 1
 --- !u!223 &686851392
 Canvas:
   m_ObjectHideFlags: 0
@@ -3683,7 +3683,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.19548294, y: 0.7029818}
+  m_Offset: {x: 0.19548297, y: 3.6879077}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -3694,7 +3694,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.6008081, y: 1.6485078}
+  m_Size: {x: 1.6008081, y: 0.5190811}
   m_EdgeRadius: 0
 --- !u!1 &1036595828
 GameObject:
@@ -4049,7 +4049,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 1.399886}
+  m_Offset: {x: 0, y: 3.646509}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -4060,7 +4060,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1, y: 1.8666772}
+  m_Size: {x: 1, y: 0.9065852}
   m_EdgeRadius: 0
 --- !u!1 &1111018767
 GameObject:
@@ -5339,7 +5339,7 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
-  m_PresetInfoIsWorld: 0
+  m_PresetInfoIsWorld: 1
 --- !u!223 &1362040238
 Canvas:
   m_ObjectHideFlags: 0
@@ -6385,7 +6385,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1814467497}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -181.3734, y: -599, z: 15.128672}
+  m_LocalPosition: {x: -179, y: -507, z: 15.128672}
   m_LocalScale: {x: 1783.8193, y: 28.77227, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
